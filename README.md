@@ -15,3 +15,7 @@ cd electron-browser
 npm install -d
 npm start
 ```
+
+## License
+
+MIT
