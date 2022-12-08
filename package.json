@@ -15,7 +15,8 @@
   "author": "Paul Frazee <pfrazee@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "electron-prebuilt": "^0.28.2"
+    "electron-prebuilt": "^0.28.2",
+    "electron": "^3.0.0"
   },
   "dependencies": {
   }
